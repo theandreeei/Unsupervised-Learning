@@ -45,7 +45,7 @@ That's all. What will happen? Read the next section.
 So you have just installed everything and ran the main.py, due to your first launch you can see the GUI window with the graph. This is a linear regression of the analyze. It was logged as a simple example of the script, you can manage it as you with. Read the next section for more information.
 
 ### Manage
-To manage the script you can open it via any IDE that can save .py files and find the variable called `X` (line 6). This is really important variable which contains a stack of the point. However, all script is simple so it's not hard to get how it works.
+To manage the script you can open it via any IDE that can save .py files and find the variable called `X` (line 6). This is a very important variable which contains a stack of the point. However, all script is simple so it's not hard to get how it works.
 
 ### Contacts
 Have any questions? Leave a comment before the repository and I will try to answer them as soon as possible.
